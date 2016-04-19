@@ -1,0 +1,37 @@
+markdown: kramdown
+mathjax: true
+
+highlighter: pygments
+permalink: /fenlei/:title.html
+excerpt_separator: "<!-- more -->"
+
+github: ganyuanda
+author: "ganyuanda"
+email: ganyuanda#qq.com
+name: "ganyuanda个人博客"
+url: http://ganyuanda.gihub.io
+domain: ganyuanda.gihub.io
+all_categories: [
+#["latest", "最新文章","/latest.html"],
+["xc", "行程","/fenlei/xc.html"], 
+["sl", "数论","/fenlei/sl.html"],
+["jh", "几何","/fenlei/jh.html"], 
+["js", "计数","/fenlei/js.html"], 
+["yyt", "应用题","/fenlei/yyt.html"], 
+["jit", "计算题","/fenlei/jst.html"], 
+["zt", "杂题","/fenlei/zt.html"],
+["archive", "存档","/archives.html"], 
+["FAQS", "帮助","/faqs.html"], 
+["about", "关于","/about.html"]
+]
+
+paginate: 8
+paginate_path: "fenlei/page:num"
+timezone: China/Chongqing
+
+collections:
+  docs:
+    output: true
+
+gems:
+ - jekyll-paginate
