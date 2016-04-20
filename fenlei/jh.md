@@ -1,4 +1,4 @@
 ---
 layout: category
-category: 几何
+category: jh
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-categories: ["几何","js"]
-title:  "测试two-level"
+categories: ["jh","js"]
+title:  "测试数学公式2"
 tags: [tag1, tag2, tag3]
 ---
 
