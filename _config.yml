@@ -2,7 +2,7 @@ markdown: kramdown
 mathjax: true
 
 highlighter: pygments
-permalink: /posts/:title.html
+permalink: none
 excerpt_separator: "<!-- more -->"
 
 github: ganyuanda
@@ -15,7 +15,7 @@ all_categories: [
 #["latest", "最新文章","/latest.html"],
 ["xc", "行程","/fenlei/xc.html"], 
 ["sl", "数论","/fenlei/sl.html"],
-["jh", "几何","/fenlei/jh.html"], 
+["几何", "几何","/fenlei/几何.html"], 
 ["js", "计数","/fenlei/js.html"], 
 ["yyt", "应用题","/fenlei/yyt.html"], 
 ["jit", "计算题","/fenlei/jst.html"], 
